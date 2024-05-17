@@ -13,7 +13,7 @@
 }  
 @font-face {
     font-family: "RobotoCondensedRegular";
-    src: url(/assets/fonts/RobotoCondensed-Regular.ttf);
+    src: url(./assets/fonts/RobotoCondensed-Regular.ttf);
 }
 * {
     padding: 0;
