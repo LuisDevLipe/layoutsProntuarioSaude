@@ -1,0 +1,31 @@
+:root {
+   --mint-clr:154, 214, 192; /*#99D5BF*/
+   --dark-gray:rgb(72, 72, 72);
+   --light-gray:rgb(204, 204, 204);
+   --green:0, 117, 108;
+   --light-green:rgb(0, 197, 180);
+   --orange:rgb(255, 138, 0);
+   --light-blue:rgb(229, 249, 248); 
+   --blue:rgb(98, 181, 249);
+   --off-white:rgb(251, 251, 255);
+   --white:rgb(255, 255, 255);
+
+}  
+@font-face {
+    font-family: "RobotoCondensedRegular";
+    src: url(/assets/fonts/RobotoCondensed-Regular.ttf);
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    /* position: relative; */
+    background-color: white;
+    font-family:"RobotoCondensedRegular","Arial" ;
+    /* min-height: 100vh;
+    height: 100%; */
+}
